@@ -1,4 +1,4 @@
-const images = ['images/Heat_Pollution_p1.png','images/Heat_Pollution_p2.png','images/Heat_Pollution_p3.png','images/Heat_Pollution_p4.png'];
+const images = ['images/Something_Much_More_p1.png','images/Something_Much_more_p2.png'];
 let index = 0;
 
 window.addEventListener('load', () => {
