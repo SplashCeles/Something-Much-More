@@ -1,4 +1,4 @@
-const images = ['images/Something_Much_More_p1.png','images/Something_Much_More_p2.png'];
+const images = ['images/Something_Much_More_p1.png','images/Something_Much_More_p2.png',];
 let index = 0;
 
 window.addEventListener('load', () => {
